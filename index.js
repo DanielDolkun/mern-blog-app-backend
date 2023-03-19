@@ -18,7 +18,7 @@ app.use(
   cors({
     origin: [
       'http://localhost:3000',
-      'https://react-node-blog-app.netlify.app/',
+      'https://react-node-blog-app.netlify.app',
     ],
   })
 )
